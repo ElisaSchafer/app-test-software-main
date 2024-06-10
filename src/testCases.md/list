@@ -1,0 +1,12 @@
+# Casos de Teste
+
+1. Teste de inicialização da aplicação
+2. Teste de autenticação do usuário
+3. Teste de criação de um novo item
+4. Teste de atualização de um item existente
+5. Teste de exclusão de um item
+6. Teste de recuperação de lista de itens
+7. Teste de recuperação de um item específico
+8. Teste de tratamento de erro de autenticação
+9. Teste de tratamento de erro de criação de item
+10. Teste de tratamento de erro de atualização de item
